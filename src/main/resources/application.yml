@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: jpa-tutorial-one-many-bidirectional
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jpatutorial
+    username: root
+    password: Auto@123
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+server:
+  port: 9191
