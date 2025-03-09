@@ -95,4 +95,4 @@ public class Employee {
 
 ## Video
 
-[![One to Many Bidirectional](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=_1BWdyRJNA4))
+[![One to Many Bidirectional]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://github.com/kuldeepsingh99/spring-data-jpa-one-to-many-bi-directional-mapping/blob/main/2.png))]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=_1BWdyRJNA4))
